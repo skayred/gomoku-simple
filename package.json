@@ -7,8 +7,7 @@
     "start": "./node_modules/parcel-bundler/bin/cli.js index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.5.5",
     "@testing-library/dom": "^6.0.0",
     "@testing-library/jest-dom": "^4.0.0",
